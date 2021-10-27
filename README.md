@@ -29,9 +29,6 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-&nbsp;
-&nbsp;
-
 <a href="https://www.linkedin.com/in/puranjayarora/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Puranjay%20Arora-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/puranjayarora/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-puranjayarora-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:puranjayarora@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-puranjayarora@gmail.com-blue?style=flat-square&logo=gmail"></a>
